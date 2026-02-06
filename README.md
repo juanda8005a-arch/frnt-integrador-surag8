@@ -1,9 +1,9 @@
-# Cursos React (Simple)
+# Cursos React 
 
 ## Requisitos
 - Node.js 18+ recomendado
 
-## Instalar y ejecutar
+## comandos para  Instalar y ejecutar
 ```bash
 npm install
 npm run dev
